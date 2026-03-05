@@ -1,0 +1,14 @@
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\bin\Debug\net10.0\Exercise5.exe
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\bin\Debug\net10.0\Exercise5.deps.json
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\bin\Debug\net10.0\Exercise5.runtimeconfig.json
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\bin\Debug\net10.0\Exercise5.dll
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\bin\Debug\net10.0\Exercise5.pdb
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfo.cs
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.dll
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\refint\Exercise5.dll
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.pdb
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\Exercise5.genruntimeconfig.cache
+C:\Users\VSOFT\my-project\dotnet\Day1\Exercise5\obj\Debug\net10.0\ref\Exercise5.dll
