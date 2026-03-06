@@ -12,3 +12,4 @@ C:\Users\VSOFT\my-project\dotnet\Day6\Exercise1\obj\Debug\net10.0\refint\Exercis
 C:\Users\VSOFT\my-project\dotnet\Day6\Exercise1\obj\Debug\net10.0\Exercise1.pdb
 C:\Users\VSOFT\my-project\dotnet\Day6\Exercise1\obj\Debug\net10.0\Exercise1.genruntimeconfig.cache
 C:\Users\VSOFT\my-project\dotnet\Day6\Exercise1\obj\Debug\net10.0\ref\Exercise1.dll
+C:\Users\VSOFT\my-project\dotnet\Day6\Exercise1\obj\Debug\net10.0\Exercise1.sourcelink.json

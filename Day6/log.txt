@@ -1,0 +1,6 @@
+[2026-03-06 17:15:20] [Warning] File logger warning
+[2026-03-06 17:15:20] [Error] File logger Error
+[2026-03-06 17:15:33] [Warning] File logger warning
+[2026-03-06 17:15:33] [Error] File logger Error
+[2026-03-06 17:18:04] [Warning] File logger warning
+[2026-03-06 17:18:04] [Error] File logger Error
